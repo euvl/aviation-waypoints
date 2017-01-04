@@ -3,7 +3,7 @@ A database of aviation waypoints (Europe, parts of Asia and Central America)
 
 Coordinates format:
 
-`[Longitude, Latitude]`
+`Longitude, Latitude]`
 
 Type abbreviations:
 * `WYP` - Waypoint
