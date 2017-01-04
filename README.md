@@ -1,9 +1,9 @@
 # aviation-waypoints
-A database of aviation waypoints (Europe, parts of Asia and Central America)
+A dataset of aviation waypoints (Europe, parts of Asia and Central America)
 
 Coordinates format:
 
-`Longitude, Latitude]`
+`[Longitude, Latitude]`
 
 Type abbreviations:
 * `WYP` - Waypoint
@@ -11,6 +11,6 @@ Type abbreviations:
 * `VHF` - Very High Frequency station
 * `NDB` - Non-directional Beacon
 
-(Care, some VHF points do not contain coordinates)
+(Some VHF points do not contain coordinates)
 
 Feel free to extend waypoints file.
